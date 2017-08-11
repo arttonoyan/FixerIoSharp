@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixerIoSharp", "FixerIoSharp\FixerIoSharp.csproj", "{918BB8BB-B104-4093-AA49-C814776841CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{918BB8BB-B104-4093-AA49-C814776841CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{918BB8BB-B104-4093-AA49-C814776841CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{918BB8BB-B104-4093-AA49-C814776841CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{918BB8BB-B104-4093-AA49-C814776841CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
